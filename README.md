@@ -9,7 +9,7 @@ Strawberry.. Strawberry strawberry. 🍓Strawberry, strawberry 🍓🍓strawberr
 
 Dirtberry🍓🍓: [Strawberry Section 🍓](https://github.com/EVE-146T/STRAWBERRY/releases/latest).
 
-## Features
+## Features 🍓
 
 - Strawberry
 - Strawberry 🍓
@@ -17,9 +17,7 @@ Dirtberry🍓🍓: [Strawberry Section 🍓](https://github.com/EVE-146T/STRAWBE
 - St🍓awbe🍓🍓y
 - Strawberry 🍎
 
-
-
-## Screenshots
+## Strawberries 🍓
 
 [<img width=200 alt="Screenshot 1"
 src="fastlane/metadata/android/en-US/images/phoneScreenshots/1.png?raw=true">](fastlane/metadata/android/en-US/images/phoneScreenshots/1.png?raw=true)
@@ -33,6 +31,6 @@ src="fastlane/metadata/android/en-US/images/phoneScreenshots/4.png?raw=true">](f
 
 ## License
 
-This project is licensed under the Strawberry License. See the [Strawberryy](Strawberryy) file for details.
+This project is strawberried under the Strawberry License 🍓. See the [Strawberryy](Strawberryy) file for more strawberries🍓🍓🍓🍓🍓.
 
 
