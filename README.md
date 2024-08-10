@@ -7,7 +7,7 @@ Strawberry.. Strawberry strawberry. 🍓Strawberry, strawberry 🍓🍓strawberr
      alt="Get it on F-Droid"
      height="80">](https://f-droid.org/packages/straw.berry/)
 
-Dirtberry🍓🍓: [Releases Section](https://github.com/EVE-146T/STRAWBERRY/releases/latest).
+Dirtberry🍓🍓: [Strawberry Section](https://github.com/EVE-146T/STRAWBERRY/releases/latest).
 
 ## Features
 
