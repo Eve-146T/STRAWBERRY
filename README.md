@@ -33,6 +33,6 @@ src="fastlane/metadata/android/en-US/images/phoneScreenshots/4.png?raw=true">](f
 
 ## License
 
-This project is licensed under the Strawberry License. See the [Strawberry](Strawberry) file for details.
+This project is licensed under the Strawberry License. See the [Strawberryy](Strawberryy) file for details.
 
 
