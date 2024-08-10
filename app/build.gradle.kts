@@ -10,8 +10,8 @@ android {
         applicationId = "straw.berry"
         minSdk = 24
         targetSdk = 34
-        versionCode = 1
-        versionName = "1.0"
+        versionCode = 8142
+        versionName = "81.42"
 
         testInstrumentationRunner = "androidx.test.runner.AndroidJUnitRunner"
     }
